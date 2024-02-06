@@ -1,0 +1,1 @@
+export const sales_data_entity: string = "cr4c5_salesdata";
